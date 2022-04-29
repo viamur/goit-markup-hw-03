@@ -91,13 +91,12 @@ img {
   display: flex;
   margin-left: 93px;
 }
-.site-nav .link {
-  padding: 32px 0;
-}
 .site-nav .item:not(:last-child) {
   margin-right: 50px;
 }
-.site-nav l .site-nav .link {
+.site-nav .link {
+  padding: 32px 0;
+
   color: var(--title-color);
   font-weight: 500;
   font-size: 14px;
